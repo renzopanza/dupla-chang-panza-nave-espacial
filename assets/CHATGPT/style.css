@@ -1,0 +1,14 @@
+body {
+  background: radial-gradient(#050b16, #000);
+  color: white;
+  font-family: 'Orbitron', sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+canvas {
+  display: block;
+  margin: 20px auto;
+  border: 2px solid #0ff;
+  background: black;
+}
