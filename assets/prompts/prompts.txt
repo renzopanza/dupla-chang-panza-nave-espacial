@@ -1,0 +1,3 @@
+prompt gemini: https://gemini.google.com/share/9ab94bb5242d
+
+prompt chatgpt: https://chatgpt.com/share/68f402af-5468-800c-ba8d-33122331f135 
